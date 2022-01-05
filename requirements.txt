@@ -1,0 +1,12 @@
+click==8.0.3
+prompt-toolkit==1.0.14
+pyconfigstore3==1.0.1
+pyfiglet==0.8.post1
+Pygments==2.11.1
+PyInquirer==1.0.3
+python-http-client==3.3.4
+regex==2021.11.10
+sendgrid==6.9.3
+six==1.16.0
+starkbank-ecdsa==2.0.3
+wcwidth==0.2.5
